@@ -1,0 +1,25 @@
+[
+  {
+    "created_at": "2026-09-21T20:21:30.117889Z",
+    "display_name": "Soul Location",
+    "id": "a7af8154-d1ce-412e-8ac2-33df62268fe7",
+    "job_type": "soul_location",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_36i7M1JwCOcbYj300C9Pt1GOT5V/hf_20260921_202130_a7af8154-d1ce-412e-8ac2-33df62268fe7_min.webp",
+    "params": {
+      "batch_size": 1,
+      "full_name": "Maplewood Ave",
+      "height": 2048,
+      "seed": 819697,
+      "style": {
+        "id": "3d31cca4-4808-4dda-9f6f-3d1532a372ae",
+        "name": "Location",
+        "strength": 1,
+        "url": "https://cdn.higgsfield.ai/soul-cinematic-style/8ea830be-845d-48f2-b487-401c8bbb5ef1.webp"
+      },
+      "style_id": "3d31cca4-4808-4dda-9f6f-3d1532a372ae",
+      "width": 1536
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_36i7M1JwCOcbYj300C9Pt1GOT5V/hf_20260921_202130_a7af8154-d1ce-412e-8ac2-33df62268fe7.png",
+    "status": "completed"
+  }
+]

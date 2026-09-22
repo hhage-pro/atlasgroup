@@ -1,0 +1,23 @@
+[
+  {
+    "created_at": "2026-09-21T20:20:02.027367Z",
+    "display_name": "GPT Image 2",
+    "id": "3a102f23-9204-4dbe-98f7-517698e7cf7e",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_36i7M1JwCOcbYj300C9Pt1GOT5V/hf_20260921_202002_3a102f23-9204-4dbe-98f7-517698e7cf7e_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [],
+      "model": "videotape-alpha",
+      "prompt": "High-end modern website design for ATLAS GROUP, a Michigan real estate, insurance, mortgage and construction company. Crisp flat UI screenshot, no device mockup. Palette true white #FFFFFF, ink navy #14263D, vivid blue #3268F5. Modern light-medium weight grotesk typography like Manrope. Airy asymmetrical editorial design, square-corner media, 64px outer gutters, fine horizontal rules. Simple outlined arrow icons. No gradients except neutral black readability fade over hero photo. No fake metrics, awards, testimonials, invented team members or fake listings. All text is readable and implementable in HTML/CSS. Standalone last section and footer of website, total 900px high. Top 65% saturated brand blue #3268F5, white text. Left big heading \"What does your next chapter look like?\" 62px across 3 lines; small body \"Tell us where you want to go. We will help you find the next step.\" Right minimalist embedded contact form on blue, white field surfaces with dark labels: name, email, service select, short message, white button \"Start a conversation\" with arrow. This is a form mockup, no fake successful message. Bottom 35% deep ink navy footer: white ATLAS GROUP wordmark on left and tagline \"A clearer way forward.\" To right simple link columns SERVICES / Real estate / Insurance / Mortgages / Construction and ATLAS / Our approach / About us / Contact. Bottom fine line, Michigan · Est. for what comes next omitted; actual bottom text \"Metro Detroit. Serving Michigan.\" and Privacy, Accessibility. Very restrained editorial layout, no extra badges.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_36i7M1JwCOcbYj300C9Pt1GOT5V/hf_20260921_202002_3a102f23-9204-4dbe-98f7-517698e7cf7e.png",
+    "status": "completed"
+  }
+]

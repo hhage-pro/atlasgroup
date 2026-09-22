@@ -1,0 +1,23 @@
+[
+  {
+    "created_at": "2026-09-21T20:20:02.343104Z",
+    "display_name": "GPT Image 2",
+    "id": "772a2e1b-153f-48c1-ab9a-caa7f01f0336",
+    "job_type": "gpt_image_2",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_36i7M1JwCOcbYj300C9Pt1GOT5V/hf_20260921_202002_772a2e1b-153f-48c1-ab9a-caa7f01f0336_min.webp",
+    "params": {
+      "aspect_ratio": "16:9",
+      "height": 1520,
+      "medias": [],
+      "model": "videotape-alpha",
+      "prompt": "High-end modern website design for ATLAS GROUP, a Michigan real estate, insurance, mortgage and construction company. Crisp flat UI screenshot, no device mockup. Palette true white #FFFFFF, ink navy #14263D, vivid blue #3268F5. Modern light-medium weight grotesk typography like Manrope. Airy asymmetrical editorial design, square-corner media, 64px outer gutters, fine horizontal rules. Simple outlined arrow icons. No gradients except neutral black readability fade over hero photo. No fake metrics, awards, testimonials, invented team members or fake listings. All text is readable and implementable in HTML/CSS. Standalone website service explorer section, no header or footer. White background. At top left small label OUR SERVICES with short blue horizontal dash; below big 58px headline \"One relationship. More possibilities.\" Across two lines. At top right a short muted paragraph \"A home. A plan. A new beginning. Wherever you are headed, start with a team that sees the bigger picture.\" Below: left 43% has four horizontal rows separated by fine rules, labeled 01 Real estate, 02 Insurance, 03 Mortgages, 04 Construction. First row expanded with muted text \"Find your place. Make your move.\" and understated text link \"Explore real estate\" plus arrow; small bright blue active indicator. Right 57% is a large cinematic sunlit living room photograph with wood, brick, large windows, garden greenery. No nested cards, no bento, no icons other than simple arrows.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2688
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_36i7M1JwCOcbYj300C9Pt1GOT5V/hf_20260921_202002_772a2e1b-153f-48c1-ab9a-caa7f01f0336.png",
+    "status": "completed"
+  }
+]

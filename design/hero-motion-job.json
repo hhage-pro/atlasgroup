@@ -1,0 +1,41 @@
+[
+  {
+    "created_at": "2026-09-21T20:24:34.331365Z",
+    "display_name": "Seedance 2.0",
+    "id": "4f00762a-cec5-4cfa-87b0-b1cf5a92ec69",
+    "job_type": "seedance_2_0",
+    "min_result_url": null,
+    "params": {
+      "aspect_ratio": "16:9",
+      "bitrate_mode": "standard",
+      "duration": 8,
+      "generate_audio": false,
+      "genre": "auto",
+      "height": 1080,
+      "medias": [
+        {
+          "data": {
+            "id": "2871a713-59ee-428a-a0ff-e8b81002f325",
+            "type": "soul_location_job",
+            "url": "https://d8j0ntlcm91z4.cloudfront.net/user_36i7M1JwCOcbYj300C9Pt1GOT5V/hf_20260921_202115_2871a713-59ee-428a-a0ff-e8b81002f325.png"
+          },
+          "role": "start_image"
+        }
+      ],
+      "mode": "std",
+      "model": "seedance_2_0",
+      "multi_prompt": [],
+      "multi_shot_mode": "custom",
+      "multi_shots": false,
+      "prompt": "A single continuous eight-second cinematic architectural shot of this exact Michigan home at blue hour. Very slow smooth camera dolly forward and gently to the right, only a few feet of movement, stabilized architectural filming. Preserve the exact building geometry, windows, roof, warm interior lights, trees and landscaping. Subtle natural leaf motion. Quiet confident atmosphere, no people, no cars, no text, no logos, no cuts, no time lapse, no lens distortion. Wide website hero background, house stays toward the right, darker garden on the left for legible website copy. No audio.",
+      "prompt_language": "en",
+      "reference_elements": [],
+      "resolution": "1080p",
+      "speedramp": "auto",
+      "width": 1920
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_36i7M1JwCOcbYj300C9Pt1GOT5V/hf_20260921_202434_4f00762a-cec5-4cfa-87b0-b1cf5a92ec69.mp4",
+    "status": "completed",
+    "thumbnail_url": "https://cdn.higgsfield.ai/user_36i7M1JwCOcbYj300C9Pt1GOT5V/hf_20260921_202434_4f00762a-cec5-4cfa-87b0-b1cf5a92ec69_thumbnail.webp"
+  }
+]
