@@ -5,7 +5,8 @@ import {Companies,ContactSection,Footer,Founder,Header,Lockup,TextLink} from './
 import {divisions,founder,legacyRoutes,steps,asset} from './content';
 
 export const pageTitles:Record<string,string>={'/about':'About Atlas','/contact':'Let’s talk','/privacy':'Privacy','/accessibility':'Accessibility','/404':'Page not found'};
-export function pageMeta(pathname:string){
+export function pageMeta(rawPathname:string){
+ const pathname=rawPathname.replace(/\/+$/,'')||'/'; // static hosts serve /mortgage/ with a trailing slash
  const division=divisions.find(d=>'/'+d.slug===pathname);
  if(division)return {title:`${division.brand} — ${division.service} in Metro Detroit | Atlas Group`,description:division.intro};
  const title=pageTitles[pathname]||(pathname==='/'?'':'Page not found');
