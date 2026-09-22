@@ -17,6 +17,17 @@ Old routes `/real-estate` and `/mortgages` redirect (301 in production, client-s
 
 The homepage and About page include a founder section (Adam Hage, photo in `public/media/adam-hage.webp`) listing license **types** only. License numbers, the public phone, and the public email are still to be supplied; see `src/content.ts` (`founder`) and `.env.example`.
 
+## Preview deployment (GitHub Pages)
+
+Live preview: **https://hhage-pro.github.io/atlasgroup/** (repo `hhage-pro/atlasgroup`, branch `gh-pages`). It is a static build: pages are pre-rendered, `noindex` stays on, and the inquiry form is shown in "design preview" mode (not connected). Redeploy after changes:
+
+```sh
+BASE_PATH=/atlasgroup/ VITE_STATIC_PREVIEW=1 npm run build
+cd dist && touch .nojekyll && git init -q && git checkout -q -b gh-pages && git add -A && git commit -qm "Deploy preview build" && git push --force https://github.com/hhage-pro/atlasgroup.git gh-pages && cd .. && rm -rf dist/.git
+```
+
+`BASE_PATH` makes asset URLs and the router base-aware (see `vite.config.ts`, `src/content.ts` `asset()`, `src/main.tsx`, `src/entry-server.tsx`). Omit both variables for the normal Express build. `design/original-artwork/` is gitignored (70 MB of generation originals); it lives only on this Mac.
+
 ## Run
 
 Requires Node.js 22.13 or newer.
